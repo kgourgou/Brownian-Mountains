@@ -1,4 +1,4 @@
-# IPython to create "Brownian mountains" 
+# A Jupyter notebook for "Brownian mountains" 
 
 "Brownian mountains" look like this :
 
