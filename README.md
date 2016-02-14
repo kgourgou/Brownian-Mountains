@@ -2,6 +2,6 @@
 
 "Brownian mountains" look like this
 
-![Brownian Mountains](brownian_discrete.png?raw=true)
+<img src="brownian_discrete.png?raw=true" height="100" width="100">
 
 
